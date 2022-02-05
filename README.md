@@ -1,6 +1,6 @@
 # Hi, I'm Samnang <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-table>
+<table>
 <tr>
   <td valign="center">
     🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
@@ -19,7 +19,6 @@ table>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chansamnang&theme=dracula&hide_border=true)
 
 
-# replace username with your own or change theme
 ## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chansamnang&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#Chansamnang" /> 
